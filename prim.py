@@ -1,5 +1,5 @@
 
-#unfortunately i copied this code , but i searched about it and i understood it well 
+
 INF = 9999999
 # number of vertices in graph
 N = 5
